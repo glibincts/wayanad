@@ -24,4 +24,4 @@ A simple, modern website template built with HTML, CSS, and JavaScript.
 
 ## License
 
-MIT License 
+MIT License # wayanad
